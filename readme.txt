@@ -1,0 +1,1 @@
+Here's the step to view the code run the python code using any of platforms and enter the amount of units consumed it will give you the total costs
